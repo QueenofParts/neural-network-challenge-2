@@ -28,6 +28,9 @@ Websites and other
 
 ## Sources: 
 
+### Colaborators
+I received help with errors from tutors Lebuso Philly and Mohammed Fauwaaz.
+
 ### Websites:
 During the work on this this assignment, my colaborators and I used the following websites for reminders of the syntax and structure of certain commands and clarificatrion regarding the specifics of their use:
 • Chat GPT -- www.chatgpt.com
